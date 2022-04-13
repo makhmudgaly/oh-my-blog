@@ -1,1 +1,1 @@
-Sitemap: https://makhmudgaly.github.io/oh-my-blog/sitemap.xml
+Sitemap: https://blog.makhmudgaly.com/sitemap.xml
