@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: "Makhmud's blog"
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+description: "Journey of Makhmud Mustafabek Galy through blogs and code"
 github_username: makhmudgaly
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "oh-my-blog"
